@@ -26,6 +26,31 @@
 		    KeyInv.Key(5)
 		</Down>
 	    </Action>
+	    <Action name="KEYINV_HOTKEY6">
+		<Down>
+		    KeyInv.Key(6)
+		</Down>
+	    </Action>
+	    <Action name="KEYINV_HOTKEY7">
+		<Down>
+		    KeyInv.Key(7)
+		</Down>
+	    </Action>
+	    <Action name="KEYINV_HOTKEY8">
+		<Down>
+		    KeyInv.Key(8)
+		</Down>
+	    </Action>
+	    <Action name="KEYINV_HOTKEY9">
+		<Down>
+		    KeyInv.Key(9)
+		</Down>
+	    </Action>
+	    <Action name="KEYINV_HOTKEY19">
+		<Down>
+		    KeyInv.Key(19)
+		</Down>
+	    </Action>
 	</Category>
     </Layer>
 </Bindings>

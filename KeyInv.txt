@@ -4,7 +4,7 @@
 ## APIVersion: 100033 100034
 ## AddonVersion: 1000
 ## SavedVariables: KeyInvSaved
-## DependsOn: LibAddonMenu-2.0 LibChatMessage LibCustomMenu
+## DependsOn: LibChatMessage
 ## OptionalDependsOn: pChat tom
 
 KeyInv.lua
